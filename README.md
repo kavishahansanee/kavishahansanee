@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/9c5675eefac22bbd54a134281472bb8e8843f95ee4da6f8c8c172776cda4537f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65642f61342f66316564613437363864663864383133356337373937373266323833336538382e676966" alt="GitHub Banner">
 </p>
-<div class="tenor-gif-embed" data-postid="27587837" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/wave-gif-27587837">Wave Sticker</a>from <a href="https://tenor.com/search/wave-stickers">Wave Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ 
 <h1 align="center">Hi 👋, I'm Kavisha Hansanee 👩‍💻</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
