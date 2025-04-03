@@ -18,8 +18,12 @@
 
 - ⚡ Fun fact **I once built a **math quiz game** that turned studying into a fun challenge!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- <br>
+ <br> <br>
+  <br>
+   <br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/kavi_hansanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavi_hansanee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kavisha hansanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavisha hansanee" height="30" width="40" /></a>
 <a href="https://fb.com/kavisha jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavisha jayasinghe" height="30" width="40" /></a>
